@@ -1,7 +1,10 @@
-name: Bug Report
-about: Report a bug or unexpected behavior
-title: '[BUG] '
-labels: bug
+# Bug Report
+
+### Report a bug or unexpected behavior
+
+#### Title: BUG - EFFECTED AREAS
+
+Label: bug
 ---
 
 **Describe the bug**
